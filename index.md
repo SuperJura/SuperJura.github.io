@@ -44,7 +44,7 @@
 * Porting game to other platforms
 
 ---
-[The Academy](https://store.steampowered.com/app/1435790/Escape_Simulator)
+[Escape Simulator](https://store.steampowered.com/app/1435790/Escape_Simulator)
 * <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1435790/header.jpg?t=1613332475" width="100"/>
 * Programmer
 * Working on network code
