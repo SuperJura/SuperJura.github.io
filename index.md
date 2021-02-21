@@ -38,7 +38,7 @@
 * Worked on multiplayer AR levels
 
 ---
-[The Academy](https://play.google.com/store/apps/details?id=com.mobigrow.puzzlebox)
+[The Academy](https://play.google.com/store/apps/details?id=com.snapbreak.theacademy)
 * <img src="https://play-lh.googleusercontent.com/CG1U7gDmi6Q7XesQ75mN-NFGQXcmjGQvh6DgmfTTadwhO-cVPRg6L-h6Zovn7s_2-Q=s180-rw" width="100"/>
 * Programmer
 * Porting game to other platforms
